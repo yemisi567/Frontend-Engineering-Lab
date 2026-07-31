@@ -28,6 +28,7 @@ That knowledge usually lives in private Slack threads, internal docs, and the he
 | Section | What's Inside |
 |---|---|
 | [`react/`](react/) | React patterns, anti-patterns, and best practices |
+| [`next/`](next/) | Next patterns, anti-patterns, and best practices |
 | [`typescript/`](typescript/) | TypeScript techniques, type design, and gotchas |
 | [`architecture/`](architecture/) | Frontend architecture, project structure, and design decisions |
 | [`performance/`](performance/) | Performance optimization strategies and measurement |
@@ -80,6 +81,7 @@ All contributions follow a consistent structure so the knowledge base stays high
 ```text
 frontend-engineering-lab/
 ├── react/
+├── next/
 ├── typescript/
 ├── architecture/
 ├── performance/
